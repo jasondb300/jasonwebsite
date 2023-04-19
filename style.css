@@ -481,4 +481,11 @@ margin-top: -30px;
         font-family: 'Open Sans', sans-serif;
         width:80%;
       }
+    #background {
+    height: 700px;
+    position: relative;
+    margin-top: 40px;
+    display: grid;
+    place-items: center;
+}
 }
