@@ -259,7 +259,18 @@ margin-top: -30px;
     .contact-info{
     margin-bottom: 40px;
     margin-top: 30px;
+    font-size:2.5rem;
     }
+.contact-info-2{
+ margin-bottom: 40px;
+    margin-top: 30px;
+    font-size:1.5rem;
+}
+.contact-info-3{
+ margin-bottom: 40px;
+    margin-top: 30px;
+    font-size:1rem;
+}
     .name{
     color:#EAF6F6;
     font-size: 0.75rem;
@@ -407,12 +418,13 @@ margin-top: -30px;
     padding: 10px 50px 45px 50px;
     text-align: center;
   }
-  .contact-info{
+  .contact-info, .contact-info-2, .contact-info-3{
     margin-bottom: 40px;
     margin-top: 60px;
     padding-left: 10px;
     padding-right: 10px;
     }
+
     .main-name{
         font-size: 4rem;
         color: #000000;
