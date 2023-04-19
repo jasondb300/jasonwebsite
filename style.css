@@ -358,7 +358,7 @@ margin-top: -30px;
         top: 100%;
         right: -100%;
         width: 270px;
-        height: 25vh;
+        height: 26vh;
         background: var(--main-color);
         display: flex;
         flex-direction: column;
@@ -481,7 +481,7 @@ margin-top: -30px;
         font-family: 'Open Sans', sans-serif;
         width:80%;
       }
-    #background {
+    #background{
     height: 1100px;
     position: relative;
     margin-top: 40px;
