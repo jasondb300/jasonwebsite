@@ -37,8 +37,9 @@ header{
     align-items:center;
     justify-content: space-between;
     background: transparent;
-    padding: 28px 12%;
+    padding: 28px 18px 28px 12px;
     transition: all .50s ease;
+        display: flex;
 }
 h3{
     font-size: 2rem;
