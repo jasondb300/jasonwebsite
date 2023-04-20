@@ -482,15 +482,26 @@ margin-top: -30px;
         font-family: 'Open Sans', sans-serif;
         width:80%;
       }
-    #background{
-    height: 1100px;
-    position: relative;
-    margin-top: 40px;
-    display: grid;
+        #background{
+        height: 1250px;
+        position: relative;
+        margin-top: 40px;
+      }
+      .row{
+        display: grid;
     place-items: center;
-}
-    .education-pic-google {
-    width: 25%;
-    padding-top: 6px;
-        padding-bottom: 0px;
+      }
+      .education-pic{
+        width:50%;
+      }
+      .education-pic-google{
+        width:45%;
+        padding-top: 28px;
+        padding-bottom: 4px;
+      }
+      .column {
+        float: left;
+        width: 50%;
+        padding: 20px;
+      }
 }
