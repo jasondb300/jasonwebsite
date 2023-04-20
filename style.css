@@ -223,6 +223,7 @@ margin-top: -30px;
   height: 700px;
   position: relative;
   margin-top: 40px;
+    margin-bottom: 0px;
 }
 .background-title{
   font-size: 3rem;
@@ -486,6 +487,7 @@ margin-top: -30px;
         height: 1250px;
         position: relative;
         margin-top: 40px;
+            margin-bottom: 30px;
       }
       .row{
         display: grid;
