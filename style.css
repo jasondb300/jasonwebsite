@@ -359,7 +359,7 @@ margin-top: -30px;
         top: 100%;
         right: -100%;
         width: 270px;
-        height: 26vh;
+        height: 28vh;
         background: var(--main-color);
         display: flex;
         flex-direction: column;
@@ -489,4 +489,8 @@ margin-top: -30px;
     display: grid;
     place-items: center;
 }
+    .education-pic-google {
+    width: 25%;
+    padding-top: 6px;
+        padding-bottom: 0px;
 }
